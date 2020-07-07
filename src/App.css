@@ -1,0 +1,23 @@
+.form{
+    margin-left: 3%;
+}
+
+.inp{
+    width: 400px;
+}
+
+.data{
+    margin-left: 3%;
+}
+
+.foot{
+    height: 12.6vh;
+    background-color:#343a40;
+   
+    color: white;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end
+    
+}
